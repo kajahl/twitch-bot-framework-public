@@ -1,4 +1,4 @@
-# Repository Name
+# Twitch Bot Framework - Public
 
 This repository serves as a public mirror of a private repository that contains the actual codebase. This public repository is intended for issue tracking, feature requests, and discussions related to the project. **No code** is stored here.
 
