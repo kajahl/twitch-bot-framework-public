@@ -2,7 +2,7 @@ name: Bug Report
 description: File a bug report.
 title: "[Bug]: "
 labels: ["bug"]
-projects: ["kajahl/1"]
+projects: ["kajahl/4"]
 assignees:
   - kajahl
 body:
