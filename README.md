@@ -14,7 +14,7 @@ The code for this project is hosted in a private repository. If you require acce
 
 ## Need Help?
 
-If you have any questions or need assistance, feel free to **join our [Discord server](https://discord.gg/zS4GBPc3)** where the community and maintainers are available to help.
+If you have any questions or need assistance, feel free to **join our [Discord server](https://discord.gg/uzsxSY7h5e)** where the community and maintainers are available to help.
 
 ## License
 
