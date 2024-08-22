@@ -1,0 +1,39 @@
+name: Feature Request
+description: Propose a new feature or enhancement.
+title: "[Feature]: "
+labels: ["Enhancement"]
+projects: ["kajahl/4"]
+assignees:
+  - kajahl
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting your idea for a new feature! Your input helps us improve the project.
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description
+      description: Please describe the feature in detail. What should it do? What problems does it solve?
+      placeholder: Describe the proposed feature here.
+      value: "I propose a new feature..."
+    validations:
+      required: true
+  - type: textarea
+    id: current-behavior
+    attributes:
+      label: Current Behavior
+      description: Describe the current behavior of the system without this feature. What limitations or issues does this feature aim to address?
+      placeholder: Describe the current behavior here.
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: Describe how the system should behave with this new feature. What improvements or changes should be evident?
+      placeholder: Describe the expected behavior here.
+  - type: input
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Provide any other context or information that might be useful for implementing this feature.
+      placeholder: Add any other relevant information here.
