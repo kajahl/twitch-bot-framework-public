@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^22.5.1",
+    "dotenv": "^16.4.5",
+    "twitch-bot-framework": "^1.0.0"
+  },
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  }
+}

@@ -1,0 +1,3 @@
+# TwitchChannel object
+
+(soon)

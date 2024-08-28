@@ -1,0 +1,3 @@
+# TwitchUser object
+
+(soon)

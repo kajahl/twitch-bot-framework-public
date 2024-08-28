@@ -12,6 +12,10 @@ This repository serves as a public mirror of a private repository that contains 
 
 The code for this project is hosted in a private repository. If you require access for development purposes or collaboration, please contact the repository owner directly.
 
+## How to use framework
+
+Usage examples are avaliable [here](USAGE.md)
+
 ## Need Help?
 
 If you have any questions or need assistance, feel free to **join our [Discord server](https://discord.gg/uzsxSY7h5e)** where the community and maintainers are available to help.
