@@ -1,6 +1,6 @@
 # Twitch Bot Framework - Public
 
-This repository serves as a public mirror of a private repository that contains the actual codebase. This public repository is intended for issue tracking, feature requests, and discussions related to the project. **No code** is stored here.
+This repository serves as a public mirror of a private repository that contains the actual codebase. This public repository is intended for issue tracking, feature requests, and discussions related to the project. **No code** is stored here. If you want to use the framework visit the [npmjs website](https://www.npmjs.com/package/twitch-bot-framework)
 
 ## Repository Purpose
 
