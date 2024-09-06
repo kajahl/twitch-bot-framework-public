@@ -14,7 +14,7 @@ The code for this project is hosted in a private repository. If you require acce
 
 ## How to use framework
 
-Usage examples are avaliable [here](USAGE.md)
+Usage examples are avaliable [here](USAGE.md). You can also visit [docs site](https://hak3r37s-organization.gitbook.io/twitch-bot-framework).
 
 ## Need Help?
 
